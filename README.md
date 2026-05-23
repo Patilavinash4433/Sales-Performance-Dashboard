@@ -1,6 +1,7 @@
 Sales Performance Dashboard 📊
 
 An interactive Power BI dashboard designed to analyze and visualize sales performance across multiple business dimensions. This project focuses on generating actionable business insights using dynamic visualizations, KPI tracking, and data modeling techniques.
+📷 Dashboard Preview
 <img width="1037" height="582" alt="Screenshot 2026-05-16 141219" src="https://github.com/user-attachments/assets/5b385f5c-61bb-45a0-97bb-e6716e6fbe4d" />
 <img width="1033" height="584" alt="Screenshot 2026-05-16 141227" src="https://github.com/user-attachments/assets/1b520d81-499e-4210-ac03-f9075bb4405b" />
 <img width="1036" height="583" alt="Screenshot 2026-05-16 141234" src="https://github.com/user-attachments/assets/3367960e-0f15-4598-997c-3ac32656f1af" />
@@ -56,11 +57,8 @@ Interactive Visualizations
 KPI Monitoring & Reporting
 Data Storytelling
 Analytical Thinking
-📷 Dashboard Preview
 
-Add your dashboard screenshots here
 
-![Dashboard Screenshot](images/dashboard.png)
 📂 Project Structure
 Sales-Performance-Dashboard/
 │── Dataset/
